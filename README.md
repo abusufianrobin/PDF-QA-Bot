@@ -22,5 +22,3 @@ This is a smart Question-Answer Helpline Bot built using Hugging Face Transforme
 
 2. 📝 License
 This project is open-source and free to use under the MIT License.
-3. 
-4. 
